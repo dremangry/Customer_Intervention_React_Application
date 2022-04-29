@@ -1,0 +1,14 @@
+{
+  "authentication": [
+   {
+    "id": 1,
+    "accessToken": "notAToken",
+    "email": "bidon@bidon.com"
+   },
+   {
+    "id": 2,
+    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFuZHJlQGdtYWlsLmNvbSIsInBhc3N3b3JkIjoxMjM0NTZ9.Gdr82zpbQcv0gh5zvx0KktjLguA58aEsGLoUFcsDGfs",
+    "email": "andre@gmail.com"
+   }]
+   
+}
