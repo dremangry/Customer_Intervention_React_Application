@@ -2,13 +2,24 @@
   "authentication": [
    {
     "id": 1,
-    "accessToken": "notAToken",
+    "access_token": "notAToken",
     "email": "bidon@bidon.com"
    },
    {
     "id": 2,
-    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFuZHJlQGdtYWlsLmNvbSIsInBhc3N3b3JkIjoxMjM0NTZ9.Gdr82zpbQcv0gh5zvx0KktjLguA58aEsGLoUFcsDGfs",
-    "email": "andre@gmail.com"
+    "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFuZHJlQGdtYWlsLmNvbSIsInBhc3N3b3JkIjoxMjM0NTZ9.Gdr82zpbQcv0gh5zvx0KktjLguA58aEsGLoUFcsDGfs",
+    "buildingId": 35,
+    "batteryId": 35,
+    "columnId": 36,
+    "elevatorId": 377,
+    "results": "incomplete",
+    "report": "test postman",
+    "status": "pending",
+    "authorId": 0,
+    "employeeId": null,
+    "customerId": 17,
+    "createdAt": "2022-04-28T19:16:58",
+    "updatedAt": "2022-04-28T19:16:58"
    }]
-   
+
 }
